@@ -4,18 +4,18 @@
 
 ---
 
-Hola! 👋🏻 las ramas están organizadas por semana, es decir **CADA RAMA SERA UNA SEMANA**
+Hola! 👋🏻 las ramas están organizadas por semana, es decir **CADA RAMA SERA UN RETO**
 
-SEMANA 01 : PYTHON  -https://github.com/cesarmayta/CODIGO-G15/tree/semana01</br>
-SEMANA 02 : FLASK - https://github.com/cesarmayta/CODIGO-G15/tree/semana02</br>
-SEMANA 03 : BASE DE DATOS RELACIONALES : https://github.com/cesarmayta/CODIGO-G15/tree/semana03</br>
-SEMANA 04 : DJANGO - https://github.com/cesarmayta/CODIGO-G15/tree/semana04</br>
-SEMANA 05 : APIREST - https://github.com/cesarmayta/CODIGO-G15/tree/semana05</br>
-SEMANA 06 : AUTENTICACIÓN API MONGODB -https://github.com/cesarmayta/CODIGO-G15/tree/semana06</br>
-SEMANA 07 : CLOUD: https://github.com/cesarmayta/CODIGO-G15/tree/semana07</br>
-SEMANA 08 : NODEJS :https://github.com/cesarmayta/CODIGO-G15/tree/semana08</br>
-SEMANA 09 : EXPRESS :https://github.com/cesarmayta/CODIGO-G15/tree/semana09</br>
-SEMANA 10 : MICROSERVICIOS : https://github.com/cesarmayta/CODIGO-G15/tree/semana10</br>
+RETO 01 : PYTHON  -https://github.com/Ignell554321/Retos-BackEnd-TECSUP/tree/reto1</br>
+RETO 02 : FLASK - https://github.com/Ignell554321/Retos-BackEnd-TECSUP/tree/reto2</br>
+RETO 03 : BASE DE DATOS RELACIONALES : https://github.com/Ignell554321/Retos-BackEnd-TECSUP/tree/reto3</br>
+RETO 04 : DJANGO - https://github.com/Ignell554321/Retos-BackEnd-TECSUP/tree/reto4</br>
+RETO 05 : APIREST - https://github.com/Ignell554321/Retos-BackEnd-TECSUP/tree/reto5</br>
+RETO 06 : AUTENTICACIÓN API MONGODB -https://github.com/Ignell554321/Retos-BackEnd-TECSUP/tree/reto6</br>
+RETO 07 : CLOUD: https://github.com/Ignell554321/Retos-BackEnd-TECSUP/tree/reto7</br>
+RETO 08 : NODEJS :https://github.com/Ignell554321/Retos-BackEnd-TECSUP/tree/reto8</br>
+RETO 09 : EXPRESS :https://github.com/Ignell554321/Retos-BackEnd-TECSUP/tree/reto9</br>
+RETO 10 : MICROSERVICIOS : https://github.com/Ignell554321/Retos-BackEnd-TECSUP/tree/reto10</br>
 
 
 # Instrucciones
@@ -23,10 +23,10 @@ SEMANA 10 : MICROSERVICIOS : https://github.com/cesarmayta/CODIGO-G15/tree/seman
 1. Para navegar entre ellas simplemente debes descargarte el repositorio mediante el siguiente comando:
 
 ```
-git clone https://github.com/cesarmayta/CODIGO-G15.git
+git clone https://github.com/Ignell554321/Retos-BackEnd-TECSUP.git
 ```
 
-2. Una vez que haya descargado, ahora, tendrás que ingresar a la carpeta `CODIGO-G15\` recien creada y estaras en la rama `main` entonces deberás ejecutar el siguiente comando dependiendo de a que rama quieras acceder:
+2. Una vez que haya descargado, ahora, estaras en la rama `main` entonces deberás ejecutar el siguiente comando dependiendo de a que rama quieras acceder:
 
 ```
 git checkout <nombre_rama>
